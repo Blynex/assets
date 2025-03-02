@@ -1,0 +1,31 @@
+{
+    "name": "Blynex",
+    "website": "https://blynex.com",
+    "description": "Welcome to Blynex Exchange – Your Gateway to Cutting-Edge Cryptocurrency Trading.",
+    "explorer": "https://bscscan.com/",
+    "symbol": "BX",
+    "type": "token",
+    "decimals": 18,
+    "status": "active",
+    "tags": [
+        "meme-native"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Blynexex"
+        },        
+	{
+            "name": "tiktok",
+            "url": "https://www.tiktok.com/@blynexex"
+        },
+	{
+            "name": "youtube",
+            "url": "https://www.youtube.com/@BlynexExchange"
+        },
+	{
+            "name": "instagram",
+            "url": "https://www.instagram.com/blynexex/"
+        }
+    ]
+}
